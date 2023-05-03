@@ -1,0 +1,17 @@
+{
+    "job_class": "PipelineJob",
+    "job_name": "RC new pipeline 0 Task",
+    "note": "",
+    "parameters": {
+        "enabled": true,
+        "include_external_urls": true,
+        "job_type": "standard",
+        "num_instances": 1,
+        "pipeline_parameters": {},
+        "pipeline_path": "RC new pipeline 0",
+        "snaplex_path": "Testing"
+    },
+    "schedule": {},
+    "trigger": {},
+    "trigger_type": "ScheduleTrigger"
+}
